@@ -1,0 +1,29 @@
+---
+title: "Projects"
+description: |
+  A list of projects that I have completed throughout my classes.
+format:
+  html:
+    toc: true
+    toc-title: "Project List"
+---
+
+## Weather Data Candle Plot
+
+This was my final project in my INFO 474 course *Interactive Information Visualization*. The goal of the project was to use weather data and create a completely different plot that answered a specific user question.
+
+The user question that my candle plot answered was relating to a weather forecaster attempting to ascertain the maximum, minimum, and average temperatures for a modifiable date range.
+
+The visualization is coded in HTML, CSS, and Javascript. A viewer can click and drag on the plot area to zoom in to a certain date range, and can double click anywhere to zoom back out. The drop down menu can be used to switch between different cities' weather data. Finally, the top of the candle is the maximum temperature for that day, the bottom of the candle is the minimum temperature for that day, and the black line is the average temperature for that day. The candle is red if the maximum temperature is greater than the minimum temperature, and blue for the opposite.
+
+Here's the link: [Weather Data Candle Plot](https://noahmcmahon1414.github.io/final_project/)
+
+## MOM & MLE Estimation for COVID Vaccine
+
+## LGBTQIA+ Cartoon Analysis
+
+## Fish Population Analysis
+
+## Nintendo SQL Database
+
+## Statistics Directed Reading Program 2023

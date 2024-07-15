@@ -1,0 +1,59 @@
+---
+title: "Experiences"
+description: |
+  A list of internships and experiences I have completed.
+format:
+  html:
+    toc: true
+    toc-title: "Experience List"
+---
+
+## ISI-BUDS Researcher (SIBS)
+
+Jul 2024 - Aug 2024 \[6 weeks\]
+
+Irvine, Washington, United States \[On-site\]
+
+(SOMETHING SHOULD GO HERE)
+
+## Statistics Directed Reading Program
+
+Jan 2023 - Apr 2023 \[4 months\]
+
+Seattle, Washington, United States \[On-site\]
+
+Learned about random walks in statistics (a study of sequences of discrete, fixed-length steps in a mathematics setting). Worked closely with a graduate student mentor to utilize this knowledge in an applied setting.
+
+## Information Technology Intern
+
+Jun 2022 - Sept 2022 \[4 months\]
+
+West Hollywood, CA, United States \[On-site\]
+
+First-ever IT Intern at the world's largest entertainment ad agency. Configured new Mac systems and added VPN security software to help the company expand WFH capabilities of employees and allow remote access. Assisted IT group with testing project of ethernet port capabilities throughout the floors.
+
+## Education Experience Creator
+
+May 2022 - Aug 2022 \[4 months\]
+
+Los Angeles, CA, United States \[Remote\]
+
+Concepted, designed, and coded interactive educational experiences for high school math and science students. Responsible for entire process from ideation and storyboarding to pitching ideas to the directors of Phenomena. Learned and used proprietary company software. Received notes and corrected experiences to make them more interactive and easy for students to learn from.
+
+Below are screenshots of my four projects that I created for Phenomena:
+
+![Divisibility Rules](img/Divisibility%20Rule.png)
+
+![Hooke's Law](img/Hooke's%20Law.png)
+
+![Inequalities](img/Inequalities.png)
+
+![Integration Approximations](img/Integration%20Approx.png)
+
+## Grocery Stocker
+
+May 2021 - Sept 2021 \[5 months\]
+
+Pasadena, CA, United States \[On-site\]
+
+Stocked high-velocity items (water/soda) and maintained the cleanliness of endcaps. Oversaw inventory management and loading areas.
