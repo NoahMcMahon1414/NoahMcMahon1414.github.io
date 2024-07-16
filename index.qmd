@@ -1,3 +1,16 @@
-![](img/Noah_for_Website.png)
+---
+image: img/Noah_for_Website.png
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 16em
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:noah.mcmahon@att.net
+    - icon: github
+      text: GitHub
+      href: https://github.com/NoahMcMahon1414
+---
 
 My name is Noah McMahon, and I am currently a senior Statistics: Data Science major at the University of Washington.
