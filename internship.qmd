@@ -12,6 +12,8 @@ format:
 
 ## Statistics Directed Reading Program
 
+(Some text should go here.)
+
 ## Information Technology Intern
 
 First-ever IT Intern at the world's largest entertainment ad agency. Configured new Mac systems and added VPN security software to help the company expand WFH capabilities of employees and allow remote access. Assisted IT group with testing project of ethernet port capabilities throughout the floors.

@@ -8,10 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: internship.qmd
-        text: Internships
       - href: project.qmd
         text: Projects
+      - href: internship.qmd
+        text: Internships
 
 format:
   html:
