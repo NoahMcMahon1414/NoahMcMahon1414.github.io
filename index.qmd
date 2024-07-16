@@ -1,4 +1,5 @@
 ---
+title: Noah McMahon
 image: img/Noah_for_Website.png
 about: 
   template: trestles
