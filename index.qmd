@@ -1,11 +1,3 @@
----
-title: "Home"
----
+![](img/Noah_for_Website.png)
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+My name is Noah McMahon, and I am currently a senior Statistics: Data Science major at the University of Washington.

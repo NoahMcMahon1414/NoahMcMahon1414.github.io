@@ -10,6 +10,12 @@ format:
 
 ## ISI-BUDS Researcher (SIBS)
 
+### Some Subheading
+
+Jul 2024 - Aug 2024 \[6 weeks\]
+
+Irvine, California, United States \[On-site\]
+
 \[Text will eventually go here\]
 
 ## Statistics Directed Reading Program
@@ -44,13 +50,13 @@ Concepted, designed, and coded interactive educational experiences for high scho
 
 Below are screenshots from the four experiences I created:
 
-![Divisibility Rules](img/Divisibility Rule.png)
+![Divisibility Rules](img/Divisibility%20Rule.png)
 
-![Hooke's Law](img/Hooke's Law.png)
+![Hooke's Law](img/Hooke's%20Law.png)
 
 ![Inequalities](img/Inequalities.png)
 
-![Integration Approximations](img/Integration Approx.png)
+![Integration Approximations](img/Integration%20Approx.png)
 
 ## Grocery Stocker
 
