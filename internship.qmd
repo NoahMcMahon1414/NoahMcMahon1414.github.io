@@ -10,16 +10,54 @@ format:
 
 ## ISI-BUDS Researcher (SIBS)
 
+\[Text will eventually go here\]
+
 ## Statistics Directed Reading Program
 
-(Some text should go here.)
+### University of Washington - Internship
+
+Jan 2023 - Apr 2023 \[4 months\]
+
+Seattle, Washington, United States \[On-site\]
+
+Learned about random walks in statistics (a study of sequences of discrete, fixed-length steps in a mathematics setting). Worked closely with a graduate student mentor to utilize this knowledge in an applied setting.
 
 ## Information Technology Intern
 
-First-ever IT Intern at the world's largest entertainment ad agency. Configured new Mac systems and added VPN security software to help the company expand WFH capabilities of employees and allow remote access. Assisted IT group with testing project of ethernet port capabilities throughout the floors.
+### Trailer Park Group - Internship
+
+Jun 2022 - Sept 2022 \[4 months\]
+
+West Hollywood, California, United States \[On-site\]
+
+First-ever IT Intern at the world's largest entertainment ad agency. Configured new Mac systems and added VPN security software to help the company expand WFH capabilities of employees and allow remote access. Assisted IT group with testing project of Ethernet port capabilities throughout the floors.
 
 ## Educational Experience Creator
 
+### Phenomena - Internship
+
+May 2022 - Aug 2022 \[4 months\]
+
+Los Angeles, California, United States \[Remote\]
+
+Concepted, designed, and coded interactive educational experiences for high school math and science students. Responsible for entire process from ideation and storyboarding to pitching ideas to the directors of Phenomena. Learned and used proprietary company software. Received notes and corrected experiences to make them more interactive and easy for students to learn from.
+
+Below are screenshots from the four experiences I created:
+
+![Divisibility Rules](img/Divisibility Rule.png)
+
+![Hooke's Law](img/Hooke's Law.png)
+
+![Inequalities](img/Inequalities.png)
+
+![Integration Approximations](img/Integration Approx.png)
+
 ## Grocery Stocker
+
+### Vons - Full-Time
+
+May 2021 - Sept 2021 \[5 months\]
+
+Pasadena, California, United States \[On-site\]
 
 Stocked high-velocity items (water/soda) and maintained the cleanliness of endcaps. Oversaw inventory management and loading areas.
