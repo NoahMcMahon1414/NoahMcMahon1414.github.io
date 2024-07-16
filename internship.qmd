@@ -1,0 +1,9 @@
+---
+title: "Internships"
+description: |
+  A list of internships that I have taken part in.
+format:
+  html:
+    toc: true
+    toc-title: "Internship List"
+---
