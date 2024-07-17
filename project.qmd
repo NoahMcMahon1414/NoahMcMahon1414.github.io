@@ -32,4 +32,4 @@ This was the project that I completed during the Statistics Directed Reading Pro
 
 Below is my summary document of what I learned as well as the presentation that I presented to my fellow students and the statistics professors:
 
-/pdf/Random_Walks_DRP_Summary (1).pdf
+[Random Walk Summary Document](pdf/Random_Walks_DRP_Summary (1)
