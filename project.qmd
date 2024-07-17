@@ -39,7 +39,7 @@ Below is my summary document of what I learned as well as the presentation that 
 Additionally, below is my R code for graphically demonstrating random walks as well as calculating their convergence:
 
 ```{r}
-#| echo: false
 #| eval: false
-#| file: C:\Users\noahm\Documents\STAT_DRP\STAT_DRP_2023\STAT_499_DRP_Simulation.R
+#| echo: false
+#| file: C:/STAT_499_DRP_Simulation.R
 ```
