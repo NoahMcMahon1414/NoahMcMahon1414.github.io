@@ -32,4 +32,10 @@ This was the project that I completed during the Statistics Directed Reading Pro
 
 Below is my summary document of what I learned as well as the presentation that I presented to my fellow students and the statistics professors:
 
-[Random Walk Summary Document](pdf/Random_Walks_DRP_Summary (1)
+[Random Walks Summary Document](pdf/Random_Walks_DRP_Summary (1).pdf)
+
+[Random Walks Presentation](https://docs.google.com/presentation/d/1AWZoXoSkdw8C97Cd3srOdegYGGiaoAv0T0-gXEnI4Kk/edit?usp=sharing)
+
+Additionally, below is my R code for graphically demonstrating random walks as well as calculating their convergence:
+
+[R Code for Random Walks]("C:\Users\noahm\Documents\STAT_DRP\STAT_DRP_2023\STAT_499_DRP_Simulation.R")

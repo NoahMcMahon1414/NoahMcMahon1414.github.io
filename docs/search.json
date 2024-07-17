@@ -95,7 +95,7 @@
     "href": "project.html#statistics-directed-reading-program-2023",
     "title": "Projects",
     "section": "Statistics Directed Reading Program 2023",
-    "text": "Statistics Directed Reading Program 2023\nThis was the project that I completed during the Statistics Directed Reading Program in my 2023 spring quarter at the University of Washington. I learned about the topic of random walks from a graduate student and then presented what I learned to a group of fellow students from the directed reading program as well as statistics professors.\nBelow is my summary document of what I learned as well as the presentation that I presented to my fellow students and the statistics professors:\n[Random Walk Summary Document](pdf/Random_Walks_DRP_Summary (1)"
+    "text": "Statistics Directed Reading Program 2023\nThis was the project that I completed during the Statistics Directed Reading Program in my 2023 spring quarter at the University of Washington. I learned about the topic of random walks from a graduate student and then presented what I learned to a group of fellow students from the directed reading program as well as statistics professors.\nBelow is my summary document of what I learned as well as the presentation that I presented to my fellow students and the statistics professors:\nRandom Walks Summary Document\nRandom Walks Presentation\nAdditionally, below is my R code for graphically demonstrating random walks as well as calculating their convergence:\nR Code for Random Walks"
   },
   {
     "objectID": "internship.html#statistics-directed-reading-program",
