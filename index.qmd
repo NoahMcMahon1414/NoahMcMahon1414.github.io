@@ -12,6 +12,11 @@ about:
     - icon: github
       text: GitHub
       href: https://github.com/NoahMcMahon1414
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/noah-mcmahon-696320227/
 ---
 
 My name is Noah McMahon, and I am currently a senior Statistics: Data Science major at the University of Washington.
+
+\[More Text Goes Here\]
