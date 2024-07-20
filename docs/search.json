@@ -53,14 +53,14 @@
     "href": "project.html",
     "title": "Projects",
     "section": "",
-    "text": "This was my final project in my INFO 474 course Interactive Information Visualization. The goal of the project was to use weather data and create a completely different plot that answered a specific user question.\nThe user question that my candle plot answered was relating to a weather forecaster attempting to ascertain the maximum, minimum, and average temperatures for a modifiable date range.\nThe visualization is coded in HTML, CSS, and Javascript. A viewer can click and drag on the plot area to zoom in to a certain date range, and can double click anywhere to zoom back out. The drop down menu can be used to switch between different cities’ weather data. Finally, the top of the candle is the maximum temperature for that day, the bottom of the candle is the minimum temperature for that day, and the black line is the average temperature for that day. The candle is red if the maximum temperature is greater than the minimum temperature, and blue for the opposite.\nHere’s the link: Weather Data Candle Plot"
+    "text": "This was my final project in my INFO 474 course Interactive Information Visualization. The goal of the project was to use weather data and create a completely different plot that answered a specific user question.\nThe user question that my candle plot answered was relating to a weather forecaster attempting to ascertain the maximum, minimum, and average temperatures for a modifiable date range.\nThe visualization is coded in HTML, CSS, and Javascript. A viewer can click and drag on the plot area to zoom in to a certain date range, and can double click anywhere to zoom back out. The drop down menu can be used to switch between different cities’ weather data. Finally, the top of the candle is the maximum temperature for that day, the bottom of the candle is the minimum temperature for that day, and the black line is the average temperature for that day. The candle is red if the maximum temperature is greater than the minimum temperature, and blue for the opposite.\nHere’s the link: Weather Data Candle Plot."
   },
   {
     "objectID": "project.html#weather-data-candle-plot",
     "href": "project.html#weather-data-candle-plot",
     "title": "Projects",
     "section": "",
-    "text": "This was my final project in my INFO 474 course Interactive Information Visualization. The goal of the project was to use weather data and create a completely different plot that answered a specific user question.\nThe user question that my candle plot answered was relating to a weather forecaster attempting to ascertain the maximum, minimum, and average temperatures for a modifiable date range.\nThe visualization is coded in HTML, CSS, and Javascript. A viewer can click and drag on the plot area to zoom in to a certain date range, and can double click anywhere to zoom back out. The drop down menu can be used to switch between different cities’ weather data. Finally, the top of the candle is the maximum temperature for that day, the bottom of the candle is the minimum temperature for that day, and the black line is the average temperature for that day. The candle is red if the maximum temperature is greater than the minimum temperature, and blue for the opposite.\nHere’s the link: Weather Data Candle Plot"
+    "text": "This was my final project in my INFO 474 course Interactive Information Visualization. The goal of the project was to use weather data and create a completely different plot that answered a specific user question.\nThe user question that my candle plot answered was relating to a weather forecaster attempting to ascertain the maximum, minimum, and average temperatures for a modifiable date range.\nThe visualization is coded in HTML, CSS, and Javascript. A viewer can click and drag on the plot area to zoom in to a certain date range, and can double click anywhere to zoom back out. The drop down menu can be used to switch between different cities’ weather data. Finally, the top of the candle is the maximum temperature for that day, the bottom of the candle is the minimum temperature for that day, and the black line is the average temperature for that day. The candle is red if the maximum temperature is greater than the minimum temperature, and blue for the opposite.\nHere’s the link: Weather Data Candle Plot."
   },
   {
     "objectID": "project.html#mom-mle-estimation-for-covid-vaccine",
@@ -74,7 +74,7 @@
     "href": "project.html#lgbtqia-cartoon-analysis",
     "title": "Projects",
     "section": "LGBTQIA+ Cartoon Analysis",
-    "text": "LGBTQIA+ Cartoon Analysis\nThis was my final group project in my INFO 201 course Foundational Skills for Data Science. The aim of the project was to analyze the presence of LGBTQIA+ characters in children’s cartoons.\nThis analysis contains three interactive visualizations, which are coded in R as a Shiny app. The link to the Shiny app is: LGBTQIA+ Cartoon Analysis Shiny App"
+    "text": "LGBTQIA+ Cartoon Analysis\nThis was my final group project in my INFO 201 course Foundational Skills for Data Science. The aim of the project was to analyze the presence of LGBTQIA+ characters in children’s cartoons.\nThis analysis contains three interactive visualizations, which are coded in R as a Shiny app. The link to the Shiny app is: LGBTQIA+ Cartoon Analysis Shiny App."
   },
   {
     "objectID": "project.html#fish-population-analysis",
@@ -88,7 +88,7 @@
     "href": "project.html#nintendo-sql-database",
     "title": "Projects",
     "section": "Nintendo SQL Database",
-    "text": "Nintendo SQL Database"
+    "text": "Nintendo SQL Database\nThis was my final project in my INFO 330 course Data and Data Modeling. The goal of this project was to create a complicated database and then answer user queries for said database. This database of Nintendo video games and game bundles itself as well as the resulting user queries are coded in fully in SQL.\nThe proposal document for the project, which outlines the information needs for the database as well as the main entities, is linked here: Nintendo SQL Database Proposal Document.\nThe Excel database that I manually created to represent the various Nintendo games is linked here: Nintendo SQL Excel Database."
   },
   {
     "objectID": "project.html#statistics-directed-reading-program-2023",
