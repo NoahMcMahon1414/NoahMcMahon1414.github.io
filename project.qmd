@@ -16,7 +16,7 @@ The user question that my candle plot answered was relating to a weather forecas
 
 The visualization is coded in HTML, CSS, and Javascript. A viewer can click and drag on the plot area to zoom in to a certain date range, and can double click anywhere to zoom back out. The drop down menu can be used to switch between different cities' weather data. Finally, the top of the candle is the maximum temperature for that day, the bottom of the candle is the minimum temperature for that day, and the black line is the average temperature for that day. The candle is red if the maximum temperature is greater than the minimum temperature, and blue for the opposite.
 
-Here's the link: [Weather Data Candle Plot](https://noahmcmahon1414.github.io/final_project/)
+Here's the link: [Weather Data Candle Plot](https://noahmcmahon1414.github.io/final_project/).
 
 ## MOM & MLE Estimation for COVID Vaccine
 
@@ -24,11 +24,17 @@ Here's the link: [Weather Data Candle Plot](https://noahmcmahon1414.github.io/fi
 
 This was my final group project in my INFO 201 course *Foundational Skills for Data Science*. The aim of the project was to analyze the presence of LGBTQIA+ characters in children's cartoons.
 
-This analysis contains three interactive visualizations, which are coded in R as a Shiny app. The link to the Shiny app is: [LGBTQIA+ Cartoon Analysis Shiny App](https://noah-mcmahon.shinyapps.io/final-project-NoahMcMahon1414/)
+This analysis contains three interactive visualizations, which are coded in R as a Shiny app. The link to the Shiny app is: [LGBTQIA+ Cartoon Analysis Shiny App](https://noah-mcmahon.shinyapps.io/final-project-NoahMcMahon1414/).
 
 ## Fish Population Analysis
 
 ## Nintendo SQL Database
+
+This was my final project in my INFO 330 course *Data and Data Modeling*. The goal of this project was to create a complicated database and then answer user queries for said database. This database of Nintendo video games and game bundles itself as well as the resulting user queries are coded in fully in SQL.
+
+The proposal document for the project, which outlines the information needs for the database as well as the main entities, is linked here: [Nintendo SQL Database Proposal Document](pdf/INFO330AProject-Grp2-Proposal (1)).
+
+The Excel database that I manually created to represent the various Nintendo games is linked here: [Nintendo SQL Excel Database](pdf/Nintendo_Database.xlsx).
 
 ## Statistics Directed Reading Program 2023
 
