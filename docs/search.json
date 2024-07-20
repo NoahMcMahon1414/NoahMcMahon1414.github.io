@@ -74,7 +74,7 @@
     "href": "project.html#lgbtqia-cartoon-analysis",
     "title": "Projects",
     "section": "LGBTQIA+ Cartoon Analysis",
-    "text": "LGBTQIA+ Cartoon Analysis"
+    "text": "LGBTQIA+ Cartoon Analysis\nThis was my final group project in my INFO 201 course Foundational Skills for Data Science. The aim of the project was to analyze the presence of LGBTQIA+ characters in children’s cartoons.\nThis analysis contains three interactive visualizations, which are coded in R as a Shiny app. The link to the Shiny app is: LGBTQIA+ Cartoon Analysis Shiny App"
   },
   {
     "objectID": "project.html#fish-population-analysis",
