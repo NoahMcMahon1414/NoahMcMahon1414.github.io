@@ -8,6 +8,10 @@ format:
     toc-title: "Project List"
 ---
 
+## Neuropsychiatric Symptoms in Late Onset Alzheimer Disease & Down Syndrome Alzheimer Disease
+
+Currently ongoing.
+
 ## Weather Data Candle Plot
 
 This was my final project in my INFO 474 course *Interactive Information Visualization*. The goal of the project was to use weather data and create a completely different plot that answered a specific user question.
@@ -23,6 +27,12 @@ Here's the link: [Weather Data Candle Plot](https://noahmcmahon1414.github.io/fi
 This was my final group project in my STAT 342 course *Introduction to Probability and Mathematical Statistics III*. The goal of the project was to create and use Method of Moments (MOM) and Maximum Likelihood Estimators (MLE) estimators to find out the efficacy of BNT162b2 COVID-19 vaccine.
 
 The estimators and graphs were coded in R, and the final project report is linked here: [MOM & MLE Estimation for COVID Vaccine Final Report](pdf/STAT_342_Final_Project.pdf).
+
+## Health & Fitness Tracker
+
+The was my final group project in my INFO 330 course *Client-Side Web Development*. The point of the project was to create an interactive web application, for which my group and I created a fitness and workout app that allows for users to log in and record both their food intake and workouts.
+
+This web application was coded in HTML, CSS, and Javascript, and was then hosted on Firebase. The link to this app is here: [Health & Fitness Tracker](https://info340-group5-project-draft-2.web.app/).
 
 ## LGBTQIA+ Cartoon Analysis
 

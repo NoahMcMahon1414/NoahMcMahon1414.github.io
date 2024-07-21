@@ -53,14 +53,14 @@
     "href": "project.html",
     "title": "Projects",
     "section": "",
-    "text": "This was my final project in my INFO 474 course Interactive Information Visualization. The goal of the project was to use weather data and create a completely different plot that answered a specific user question.\nThe user question that my candle plot answered was relating to a weather forecaster attempting to ascertain the maximum, minimum, and average temperatures for a modifiable date range.\nThe visualization is coded in HTML, CSS, and Javascript. A viewer can click and drag on the plot area to zoom in to a certain date range, and can double click anywhere to zoom back out. The drop down menu can be used to switch between different cities’ weather data. Finally, the top of the candle is the maximum temperature for that day, the bottom of the candle is the minimum temperature for that day, and the black line is the average temperature for that day. The candle is red if the maximum temperature is greater than the minimum temperature, and blue for the opposite.\nHere’s the link: Weather Data Candle Plot."
+    "text": "Currently ongoing."
   },
   {
     "objectID": "project.html#weather-data-candle-plot",
     "href": "project.html#weather-data-candle-plot",
     "title": "Projects",
-    "section": "",
-    "text": "This was my final project in my INFO 474 course Interactive Information Visualization. The goal of the project was to use weather data and create a completely different plot that answered a specific user question.\nThe user question that my candle plot answered was relating to a weather forecaster attempting to ascertain the maximum, minimum, and average temperatures for a modifiable date range.\nThe visualization is coded in HTML, CSS, and Javascript. A viewer can click and drag on the plot area to zoom in to a certain date range, and can double click anywhere to zoom back out. The drop down menu can be used to switch between different cities’ weather data. Finally, the top of the candle is the maximum temperature for that day, the bottom of the candle is the minimum temperature for that day, and the black line is the average temperature for that day. The candle is red if the maximum temperature is greater than the minimum temperature, and blue for the opposite.\nHere’s the link: Weather Data Candle Plot."
+    "section": "Weather Data Candle Plot",
+    "text": "Weather Data Candle Plot\nThis was my final project in my INFO 474 course Interactive Information Visualization. The goal of the project was to use weather data and create a completely different plot that answered a specific user question.\nThe user question that my candle plot answered was relating to a weather forecaster attempting to ascertain the maximum, minimum, and average temperatures for a modifiable date range.\nThe visualization is coded in HTML, CSS, and Javascript. A viewer can click and drag on the plot area to zoom in to a certain date range, and can double click anywhere to zoom back out. The drop down menu can be used to switch between different cities’ weather data. Finally, the top of the candle is the maximum temperature for that day, the bottom of the candle is the minimum temperature for that day, and the black line is the average temperature for that day. The candle is red if the maximum temperature is greater than the minimum temperature, and blue for the opposite.\nHere’s the link: Weather Data Candle Plot."
   },
   {
     "objectID": "project.html#mom-mle-estimation-for-covid-vaccine",
@@ -145,5 +145,19 @@
     "title": "Internships",
     "section": "",
     "text": "Jul 2024 - Aug 2024 [6 weeks]\nIrvine, California, United States [On-site]\nCurrently ongoing."
+  },
+  {
+    "objectID": "project.html#neuropsychiatric-symptoms-in-late-onset-alzheimer-disease-down-syndrome-alzheimer-disease",
+    "href": "project.html#neuropsychiatric-symptoms-in-late-onset-alzheimer-disease-down-syndrome-alzheimer-disease",
+    "title": "Projects",
+    "section": "",
+    "text": "Currently ongoing."
+  },
+  {
+    "objectID": "project.html#health-fitness-tracker",
+    "href": "project.html#health-fitness-tracker",
+    "title": "Projects",
+    "section": "Health & Fitness Tracker",
+    "text": "Health & Fitness Tracker\nThe was my final group project in my INFO 330 course Client-Side Web Development. The point of the project was to create an interactive web application, for which my group and I created a fitness and workout app that allows for users to log in and record both their food intake and workouts.\nThis web application was coded in HTML, CSS, and Javascript, and was then hosted on Firebase. The link to this app is here: Health & Fitness Tracker."
   }
 ]
