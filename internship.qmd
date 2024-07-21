@@ -6,7 +6,6 @@ format:
   html:
     toc: true
     toc-title: "Internship List"
-    backgroundcolor: lightblue
 ---
 
 ## Irvine Summer Institute in Biostatistics and Undergraduate Data Science (ISI-BUDS)

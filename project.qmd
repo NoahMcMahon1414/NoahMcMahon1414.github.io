@@ -6,7 +6,6 @@ format:
   html:
     toc: true
     toc-title: "Project List"
-    backgroundcolor: lightblue
 ---
 
 ## Weather Data Candle Plot
