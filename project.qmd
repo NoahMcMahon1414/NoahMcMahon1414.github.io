@@ -20,6 +20,10 @@ Here's the link: [Weather Data Candle Plot](https://noahmcmahon1414.github.io/fi
 
 ## MOM & MLE Estimation for COVID Vaccine
 
+This was my final group project in my STAT 342 course *Introduction to Probability and Mathematical Statistics III*. The goal of the project was to create and use Method of Moments (MOM) and Maximum Likelihood Estimators (MLE) estimators to find out the efficacy of BNT162b2 COVID-19 vaccine.
+
+The estimators and graphs were coded in R, and the final project report is linked here: [MOM & MLE Estimation for COVID Vaccine Final Report](pdf/STAT_342_Final_Project.pdf).
+
 ## LGBTQIA+ Cartoon Analysis
 
 This was my final group project in my INFO 201 course *Foundational Skills for Data Science*. The aim of the project was to analyze the presence of LGBTQIA+ characters in children's cartoons.
@@ -27,6 +31,10 @@ This was my final group project in my INFO 201 course *Foundational Skills for D
 This analysis contains three interactive visualizations, which are coded in R as a Shiny app. The link to the Shiny app is: [LGBTQIA+ Cartoon Analysis Shiny App](https://noah-mcmahon.shinyapps.io/final-project-NoahMcMahon1414/).
 
 ## Fish Population Analysis
+
+This was my final group project in my AMATH 383 course *Introduction to Continuous Mathematical Modeling*. The goal of this project was to measure the accuracy of the base logistical model against actual fish populations over time.
+
+The plots for this project were coded in Python, and the final project report is linked here: [Fish Population Analysis Final Report](pdf/AMATH_353_Final_Report (1).pdf).
 
 ## Nintendo SQL Database
 
