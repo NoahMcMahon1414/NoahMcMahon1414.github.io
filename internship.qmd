@@ -8,9 +8,9 @@ format:
     toc-title: "Internship List"
 ---
 
-## ISI-BUDS Researcher (SIBS)
+## Irvine Summer Institute in Biostatistics and Undergraduate Data Science (ISI-BUDS)
 
-### Some Subheading
+### Summer Institutes in Biostatistics (SIBS) and Data Science - Internship
 
 Jul 2024 - Aug 2024 \[6 weeks\]
 
