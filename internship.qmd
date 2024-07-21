@@ -6,6 +6,7 @@ format:
   html:
     toc: true
     toc-title: "Internship List"
+    backgroundcolor: lightblue
 ---
 
 ## Irvine Summer Institute in Biostatistics and Undergraduate Data Science (ISI-BUDS)
@@ -16,7 +17,7 @@ Jul 2024 - Aug 2024 \[6 weeks\]
 
 Irvine, California, United States \[On-site\]
 
-\[Text will eventually go here\]
+Currently ongoing.
 
 ## Statistics Directed Reading Program
 
