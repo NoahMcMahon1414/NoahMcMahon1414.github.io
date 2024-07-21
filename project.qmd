@@ -36,6 +36,14 @@ The proposal document for the project, which outlines the information needs for 
 
 The Excel database that I manually created to represent the various Nintendo games is linked here: [Nintendo SQL Excel Database](pdf/Nintendo_Excel.pdf).
 
+The Phase 1 Entity-Relationship Diagram (ERD), along with the Phase 2 Relational Schema for the database are additionally linked below:
+
+[Phase 1 ERD](pdf/Phase1_INFO330_ERD_Diagram.drawio (1).pdf)
+
+[Phase 2 Relational Schema](pdf/Phase2_INFO330_RelationalSchema.drawio (1).pdf)
+
+The final project file that includes a summary of the database as well as all of the user queries and their respective results is right here: [Nintendo SQL Database Final Project Summary](pdf/INFO_330_Final_Project (1).pdf).
+
 ## Statistics Directed Reading Program 2023
 
 This was the project that I completed during the Statistics Directed Reading Program in my 2023 spring quarter at the University of Washington. I learned about the topic of random walks from a graduate student and then presented what I learned to a group of fellow students from the directed reading program as well as statistics professors.
