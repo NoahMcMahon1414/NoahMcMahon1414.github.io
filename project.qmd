@@ -44,7 +44,7 @@ This analysis contains three interactive visualizations, which are coded in R as
 
 This was my final group project in my AMATH 383 course *Introduction to Continuous Mathematical Modeling*. The goal of this project was to measure the accuracy of the base logistical model against actual fish populations over time.
 
-The plots for this project were coded in Python, and the final project report is linked here: [Fish Population Analysis Final Report](pdf/AMATH_353_Final_Report (1).pdf).
+The plots for this project were coded in Python, and the final project report is linked here: [Fish Population Analysis Final Report](pdf/AMATH_353_Final_Report%20(1).pdf).
 
 ## Nintendo SQL Database
 
@@ -56,11 +56,11 @@ The Excel database that I manually created to represent the various Nintendo gam
 
 The Phase 1 Entity-Relationship Diagram (ERD), along with the Phase 2 Relational Schema for the database are additionally linked below:
 
-[Phase 1 ERD](pdf/Phase1_INFO330_ERD_Diagram.drawio (1).pdf)
+[Phase 1 ERD](pdf/Phase1_INFO330_ERD_Diagram.drawio%20(1).pdf)
 
-[Phase 2 Relational Schema](pdf/Phase2_INFO330_RelationalSchema.drawio (1).pdf)
+[Phase 2 Relational Schema](pdf/Phase2_INFO330_RelationalSchema.drawio%20(1).pdf)
 
-The final project file that includes a summary of the database as well as all of the user queries and their respective results is right here: [Nintendo SQL Database Final Project Summary](pdf/INFO_330_Final_Project (1).pdf).
+The final project file that includes a summary of the database as well as all of the user queries and their respective results is right here: [Nintendo SQL Database Final Project Summary](pdf/INFO_330_Final_Project%20(1).pdf).
 
 ## Statistics Directed Reading Program 2023
 
