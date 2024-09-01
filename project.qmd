@@ -8,7 +8,7 @@ format:
     toc-title: "Project List"
 ---
 
-## Neuropsychiatric Symptoms in Late Onset Alzheimer Disease & Down Syndrome Alzheimer Disease
+## Neuropsychiatric Symptoms in Late Onset Alzheimer's Disease & Down Syndrome Alzheimer's Disease
 
 Currently ongoing.
 
@@ -16,7 +16,7 @@ Currently ongoing.
 
 This was my final project in my INFO 474 course *Interactive Information Visualization*. The goal of the project was to use weather data and create a completely different plot that answered a specific user question.
 
-The user question that my candle plot answered was relating to a weather forecaster attempting to ascertain the maximum, minimum, and average temperatures for a modifiable date range.
+The user question that my candle plot answered was related to a weather forecaster attempting to ascertain the maximum, minimum, and average temperatures for a modifiable date range.
 
 The visualization is coded in HTML, CSS, and Javascript. A viewer can click and drag on the plot area to zoom in to a certain date range, and can double click anywhere to zoom back out. The drop down menu can be used to switch between different cities' weather data. Finally, the top of the candle is the maximum temperature for that day, the bottom of the candle is the minimum temperature for that day, and the black line is the average temperature for that day. The candle is red if the maximum temperature is greater than the minimum temperature, and blue for the opposite.
 
@@ -24,13 +24,13 @@ Here's the link: [Weather Data Candle Plot](https://noahmcmahon1414.github.io/fi
 
 ## MOM & MLE Estimation for COVID Vaccine
 
-This was my final group project in my STAT 342 course *Introduction to Probability and Mathematical Statistics III*. The goal of the project was to create and use Method of Moments (MOM) and Maximum Likelihood Estimators (MLE) estimators to find out the efficacy of BNT162b2 COVID-19 vaccine.
+This was my final group project in my STAT 342 course *Introduction to Probability and Mathematical Statistics III*. The goal of the project was to create and use Method of Moments (MOM) and Maximum Likelihood Estimators (MLE) to find out the efficacy of the BNT162b2 COVID-19 vaccine.
 
 The estimators and graphs were coded in R, and the final project report is linked here: [MOM & MLE Estimation for COVID Vaccine Final Report](pdf/STAT_342_Final_Project.pdf).
 
 ## Health & Fitness Tracker
 
-The was my final group project in my INFO 330 course *Client-Side Web Development*. The point of the project was to create an interactive web application, for which my group and I created a fitness and workout app that allows for users to log in and record both their food intake and workouts.
+The was my final group project in my INFO 330 course *Client-Side Web Development*. The purpose of the project was to create an interactive web application, for which my group and I created a fitness and workout app that allows for users to log in and record both their food intake and workouts.
 
 This web application was coded in HTML, CSS, and Javascript, and was then hosted on Firebase. The link to this app is here: [Health & Fitness Tracker](https://info340-group5-project-draft-2.web.app/).
 
@@ -48,7 +48,7 @@ The plots for this project were coded in Python, and the final project report is
 
 ## Nintendo SQL Database
 
-This was my final project in my INFO 330 course *Data and Data Modeling*. The goal of this project was to create a complicated database and then answer user queries for said database. This database of Nintendo video games and game bundles itself as well as the resulting user queries are coded in fully in SQL.
+This was my final project in my INFO 330 course *Data and Data Modeling*. The goal of this project was to create a complicated database and then answer user queries for said database. This database of Nintendo video games and game bundles as well as the resulting user queries are coded in SQL.
 
 The proposal document for the project, which outlines the information needs for the database as well as the main entities, is linked here: [Nintendo SQL Database Proposal Document](pdf/Nintendo_Proposal.pdf).
 
@@ -60,13 +60,13 @@ The Phase 1 Entity-Relationship Diagram (ERD), along with the Phase 2 Relational
 
 [Phase 2 Relational Schema](pdf/Phase2_INFO330_RelationalSchema.drawio%20(1).pdf)
 
-The final project file that includes a summary of the database as well as all of the user queries and their respective results is right here: [Nintendo SQL Database Final Project Summary](pdf/INFO_330_Final_Project%20(1).pdf).
+The final project file that includes a summary of the database as well as all of the user queries and their respective results is linked here: [Nintendo SQL Database Final Project Summary](pdf/INFO_330_Final_Project%20(1).pdf).
 
 ## Statistics Directed Reading Program 2023
 
-This was the project that I completed during the Statistics Directed Reading Program in my 2023 spring quarter at the University of Washington. I learned about the topic of random walks from a graduate student and then presented what I learned to a group of fellow students from the directed reading program as well as statistics professors.
+This was the project that I completed during the Statistics Directed Reading Program in my 2023 spring quarter at the University of Washington. I was taught about the topic of random walks from a graduate student and then presented what I learned to a group of fellow students from the directed reading program as well as statistics professors.
 
-Below is my summary document of what I learned as well as the presentation that I presented to my fellow students and the statistics professors:
+Below is my summary document of what I understood as well as the presentation that I presented to my fellow students and the statistics professors:
 
 [Random Walks Summary Document](pdf/Random_Walks_DRP_Summary%20(1).pdf)
 
